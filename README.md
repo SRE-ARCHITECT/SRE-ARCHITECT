@@ -14,11 +14,11 @@ Autodidata, analítico e com visão de negócios, buscando integrar segurança, 
 
 ---
 ## 🛠️ Principais Competências 👇
-- **Infraestrutura & Cloud** - Administração de sistemas, redes e serviços em nuvem.
-- **Segurança & Monitoramento** - Implementação de Active Directory e GPO's, políticas de segurança, firewalls e ferramentas de observabilidade.
-- **DevOps & Automação** - CI/CD, containers, orquestração e automação de processos.
-- **Arquitetura de Código com IA** - Desenvolvimento web/mobile (Kotlin, JavaScript e Apache Cordova).
-- **Gestão de Projetos** - Implantação de ERPs, sistemas hospitalares e comerciais e aplicativos SaaS.
+- **Infraestrutura & Cloud** : Administração de sistemas, redes e serviços em nuvem.
+- **Segurança & Monitoramento** : Implementação de Active Directory e GPO's, políticas de segurança, firewalls e ferramentas de observabilidade.
+- **DevOps & Automação** : CI/CD, containers, orquestração e automação de processos.
+- **Arquitetura de Código com IA** : Desenvolvimento web/mobile (Kotlin, JavaScript e Apache Cordova).
+- **Gestão de Projetos** : Implantação de ERPs, sistemas hospitalares e comerciais e aplicativos SaaS.
 
 ---
 ## 🎯 Atualmente Focando Em 👇
