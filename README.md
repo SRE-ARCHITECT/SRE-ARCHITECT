@@ -8,7 +8,7 @@ Profissional de TI com experiência em infraestrutura e suporte, evoluindo para 
 
 ## 📁 Portfólio Técnico
 
-**🌐 Infraestrutura:** [webtecinfotec.com.br](https://webtecinfotec.com.br)  
+**🌐 Infraestrutura:** [webtecinfotec.com.br](https://www.webtecinfotec.com.br)  
 **🚀 Projetos SaaS:** [checkenf.netlify.app](https://checkenf.netlify.app) | [construfacil.app.br](https://construfacil.app.br)  
 **📱 Apps Android:** [Google Play Store](https://play.google.com/store/apps/developer?id=WebTec+InfoTec)
 
