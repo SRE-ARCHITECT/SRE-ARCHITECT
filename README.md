@@ -5,7 +5,7 @@ IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersec
 **🚀 Projetos SaaS com Observabilidade em DataDog:** [checkenf.netlify.app](https://checkenf.netlify.app) | [construfacil.app.br](https://construfacil.app.br)  
 **📱 Apps Android:** [Google Play Store](https://play.google.com/store/apps/developer?id=WebTec+InfoTec)
 
-Profissional de TI com experiência em infraestrutura e suporte, evoluindo para SRE, DevOps e Arquitetura de código com IA. 
+Profissional de TI com experiência em infraestrutura e suporte, evoluindo para SRE, DevOps e Arquitetura de código com IA.
 Minha trajetória combina sólidos conhecimentos em infraestruturas on-premise e práticas em tecnologias modernas de nuvem, automação e desenvolvimento assistido por IA.
 Autodidata, analítico e com visão de negócios, buscando integrar segurança, eficiência operacional e inovação tecnológica.
 
