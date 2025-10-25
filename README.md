@@ -1,4 +1,4 @@
-#IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
+IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
 
 ## 📁 Portfólio Técnico 👇
 **🌐 Infraestrutura:** [webtecinfotec.com.br](https://www.webtecinfotec.com.br)  
