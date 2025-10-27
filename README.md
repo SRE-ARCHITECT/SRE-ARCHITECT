@@ -1,3 +1,7 @@
+<div align="center">
+<img src="devops-ai-coder-banner.jpeg" alt="Certificações DevOps - EXIN ISO27001 Foundation e AWS Cloud Practitioner" width="800">
+</div>
+
 IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
 
 ## 📁 Portfólio Técnico 👇
