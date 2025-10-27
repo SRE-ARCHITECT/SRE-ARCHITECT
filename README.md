@@ -3,8 +3,6 @@
 
 </div>
 
-# IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
-
 IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
 
 ## 📁 Portfólio Técnico 👇
