@@ -1,6 +1,9 @@
 <div align="center">
-<img src="devops-ai-coder-banner.jpg" alt="Certificações DevOps - EXIN ISO27001 Foundation e AWS Cloud Practitioner" width="800">
+<img src="devops-ai-coder-banner.jpg" alt="Certificações DevOps - EXIN ISO27001 Foundation e AWS Cloud Practitioner" style="max-width: 100%; height: auto; width: auto;">
+
 </div>
+
+# IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
 
 IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
 
