@@ -3,8 +3,6 @@
 
 </div>
 
-IT Infrastructure Analyst | SRE | DevOps | AI Coder Architect | Cloud & Cybersecurity
-
 ## 📁 Portfólio Técnico 👇
 **🌐 Infraestrutura:** [webtecinfotec.com.br](https://www.webtecinfotec.com.br)  
 **🚀 Projetos SaaS com Observabilidade em DataDog:** [checkenf.netlify.app](https://checkenf.netlify.app) | [construfacil.app.br](https://construfacil.app.br)  
