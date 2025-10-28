@@ -1,8 +1,3 @@
-<div align="center">
-<img src="devops-ai-coder-banner.jpg" alt="Certificações DevOps - EXIN ISO27001 Foundation e AWS Cloud Practitioner" style="max-width: 100%; height: auto; width: auto;">
-
-</div>
-
 ## 📁 Portfólio Técnico 👇
 **🌐 Infraestrutura:** [webtecinfotec.com.br](https://www.webtecinfotec.com.br)  
 **🚀 Projetos SaaS com Observabilidade em DataDog:** [checkenf.netlify.app](https://checkenf.netlify.app) | [construfacil.app.br](https://construfacil.app.br)  
