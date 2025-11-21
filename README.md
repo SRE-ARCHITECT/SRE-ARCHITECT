@@ -19,9 +19,9 @@ Autodidata, analítico e com visão de negócios, buscando integrar segurança, 
 
 ---
 ## 🎯 Atualmente Focando Em 👇
+- Posições estratégicas que integrem Infraestrutura, DevOps, Segurança, Desenvolvimento e Automações com IA.
 - Desenvolvimento de aplicações SaaS com práticas de SRE e Observabilidade em DataDog e ferramentas integradas.
 - Publicação de aplicativos Android na Google Play Store.
-- Posições estratégicas que integrem Infraestrutura, DevOps, Segurança, Desenvolvimento e Automações com IA.
   
 ---
 ## 📫 Contato
