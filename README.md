@@ -5,9 +5,7 @@
 
 **Certificações:** EXIN® ISO/IEC 27001 e AWS Cloud Practitioner.
 
-Profissional de TI com experiência em infraestrutura e suporte, evoluindo para SRE, DevOps e Arquitetura de código com IA.
-Minha trajetória combina sólidos conhecimentos em infraestruturas on-premise e práticas em tecnologias modernas de nuvem, automação e desenvolvimento assistido por IA.
-Autodidata, analítico e com visão de negócios, buscando integrar segurança, eficiência operacional e inovação tecnológica.
+Profissional com base sólida em infraestrutura de TI e suporte em ambientes on-premise, atuando também no desenvolvimento e na entrega de software end-to-end, integrando IA, DevOps, Cloud e práticas de SRE em monitoramento e observabilidade para soluções escaláveis e confiáveis.
 
 ---
 ## 🛠️ Principais Competências 👇
