@@ -5,7 +5,8 @@
 
 **Certificações:** EXIN® ISO/IEC 27001 e AWS Cloud Practitioner.
 
-Profissional com base sólida em infraestrutura de TI e suporte em ambientes on-premise, atuando também no desenvolvimento e na entrega de software end-to-end, integrando IA, DevOps, Cloud e práticas de SRE em monitoramento e observabilidade para soluções escaláveis e confiáveis.
+Profissional com base sólida em infraestrutura de TI e suporte em ambientes on-premise, atuando também no desenvolvimento e na entrega de software end-to-end, integrando IA, DevOps, Cloud e práticas de SRE em monitoramento e observabilidade.
+Atuação na definição, governança e gestão do uso de IA aplicada ao ciclo de desenvolvimento e à operação de software.
 
 ---
 ## 🛠️ Principais Competências 👇
