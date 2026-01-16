@@ -12,7 +12,7 @@ Atuação na definição, governança e gestão do uso de IA aplicada ao ciclo d
 ## 🛠️ Principais Competências 👇
 - **Infraestrutura & Cloud** : Administração de sistemas, redes e serviços em nuvem.
 - **Segurança & Monitoramento** : Implementação de Active Directory e GPO's, políticas de segurança, firewalls e ferramentas de observabilidade.
-- **DevOps & Automação** : CI/CD, containers, orquestração e automação de processos.
+- **DevOps & Automação** : CI/CD, Servelles, orquestração e automação de processos.
 - **Arquitetura de Código com IA** : Desenvolvimento web/mobile (Kotlin, JavaScript e Apache Cordova).
 - **Gestão de Projetos** : Implantação de ERPs, sistemas hospitalares e comerciais e aplicativos SaaS.
 
