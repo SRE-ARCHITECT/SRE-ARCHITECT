@@ -5,16 +5,14 @@
 
 **Certificações:** EXIN® ISO/IEC 27001 e AWS Cloud Practitioner.
 
-Polímata.
-Profissional com base sólida em infraestrutura de TI e suporte em ambientes on-premise, atuando também no desenvolvimento e na entrega de software end-to-end, integrando IA, DevOps, Cloud e práticas de SRE em monitoramento e observabilidade.
-Atuação na definição, governança e gestão do uso de IA aplicada ao ciclo de desenvolvimento e à operação de software.
+Polímata, profissional com base sólida em infraestrutura de TI e suporte em ambientes on-premise, atuando também no desenvolvimento e na entrega de software end-to-end, integrando IA, DevOps, Cloud e práticas de SRE em monitoramento e observabilidade para soluções escaláveis e confiáveis. Atuação na definição, governança e gestão do uso de Inteligência Artificial aplicada ao ciclo de desenvolvimento e á operação de software à produção.
 
 ---
 ## 🛠️ Principais Competências 👇
 - **Infraestrutura & Cloud** : Administração de sistemas, redes e serviços em nuvem.
 - **Segurança & Monitoramento** : Implementação de Active Directory e GPO's, políticas de segurança, firewalls e ferramentas de observabilidade.
 - **DevOps & Automação** : CI/CD, Servelles, orquestração e automação de processos.
-- **Arquitetura de Código com IA** : Desenvolvimento web/mobile (Kotlin, JavaScript e Apache Cordova).
+- **Arquitetura de Código com IA** : Desenvolvimento web/mobile.
 - **Gestão de Projetos** : Implantação de ERPs, sistemas hospitalares e comerciais e aplicativos SaaS.
 
 ---
