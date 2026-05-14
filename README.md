@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Everson Silva Banner" width="100%">
+  <img src="banner.png" alt="Everson" width="100%">
 
   <h1>👋 Olá, eu sou Everson</h1>
 
@@ -11,7 +11,7 @@
     <a href="https://webappdesigner.com.br" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-webappdesigner.com.br-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://www.linkedin.com/in/SRE-ARCHITECT" target="_blank">
+    <a href="https://www.linkedin.com/in/eversonti" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
