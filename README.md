@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.png" alt="Everson Silva Banner" width="100%">
 
-  <h1>👋 Olá, eu sou Everson Silva</h1>
+  <h1>👋 Olá, eu sou Everson</h1>
 
   <p align="center">
     <strong>AI-Native Product Engineer | SaaS & Automation Architecture | Cloud | DevOps, SRE & Infrastructure</strong>
@@ -22,7 +22,6 @@
 ### 🚀 Sobre Mim
 
 Experiência em **infraestrutura crítica on-premise, sistemas distribuídos e cloud**, com foco total em **produto e operações**. Atualmente, meu trabalho é a convergência entre a robustez do SRE e a inovação da IA.
-
 Especialista no desenvolvimento de **SaaS e automações com integração de IA (LLMs)**, cobrindo desde a avaliação de performance e tuning de prompts até estratégias complexas de fallback. Aplico práticas de SRE para garantir que sistemas de IA sejam não apenas inteligentes, mas **confiáveis, eficientes e escaláveis**.
 
 ---
@@ -49,8 +48,6 @@ Especialista no desenvolvimento de **SaaS e automações com integração de IA 
 *   **EXIN Information Security Management** (ISO/IEC 27001)
 
 ---
-
-### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRE-ARCHITECT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRE-ARCHITECT&layout=compact&langs_count=7&theme=tokyonight"/>
