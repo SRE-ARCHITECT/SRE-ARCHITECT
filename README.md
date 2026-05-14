@@ -1,35 +1,63 @@
-## 📁 Portfólio Técnico 👇
-**🌐 Infraestrutura:** [webtecinfotec.com.br](https://www.webtecinfotec.com.br)  
-**🚀 Projetos SaaS com Observabilidade em DataDog:** [sharkpro.vercel.app](https://sharkpro.vercel.app/) | [mecanicodigital.vercel.app](https://mecanicodigital.vercel.app) | [checkenf.netlify.app](https://checkenf.netlify.app) | [construfacil.app.br](https://construfacil.app.br)  
-**📱 Apps Android:** [Google Play Store](https://play.google.com/store/apps/developer?id=WebTec+InfoTec)
+<div align="center">
+  <img src="banner.png" alt="Everson Silva Banner" width="100%">
 
-**Certificações:** EXIN® ISO/IEC 27001 e AWS Cloud Practitioner.
+  <h1>👋 Olá, eu sou Everson Silva</h1>
 
-Polímata, profissional com base sólida em infraestrutura de TI e suporte em ambientes on-premise, atuando também no desenvolvimento e na entrega de software end-to-end, integrando IA, DevOps, Cloud e práticas de SRE em monitoramento e observabilidade para soluções escaláveis e confiáveis. Atuação na definição, governança e gestão do uso de Inteligência Artificial aplicada ao ciclo de desenvolvimento e á operação de software à produção.
+  <p align="center">
+    <strong>AI-Native Product Engineer | SaaS & Automation Architecture | Cloud | DevOps, SRE & Infrastructure</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://webappdesigner.com.br" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-webappdesigner.com.br-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/SRE-ARCHITECT" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>
 
 ---
-## 🛠️ Principais Competências 👇
-- **Infraestrutura & Cloud** : Administração de sistemas, redes e serviços em nuvem.
-- **Segurança & Monitoramento** : Implementação de Active Directory e GPO's, políticas de segurança, firewalls e ferramentas de observabilidade.
-- **DevOps & Automação** : CI/CD, Servelles, orquestração e automação de processos.
-- **Arquitetura de Código com IA** : Desenvolvimento web/mobile.
-- **Gestão de Projetos** : Implantação de ERPs, sistemas hospitalares e comerciais e aplicativos SaaS.
+
+### 🚀 Sobre Mim
+
+Experiência em **infraestrutura crítica on-premise, sistemas distribuídos e cloud**, com foco total em **produto e operações**. Atualmente, meu trabalho é a convergência entre a robustez do SRE e a inovação da IA.
+
+Especialista no desenvolvimento de **SaaS e automações com integração de IA (LLMs)**, cobrindo desde a avaliação de performance e tuning de prompts até estratégias complexas de fallback. Aplico práticas de SRE para garantir que sistemas de IA sejam não apenas inteligentes, mas **confiáveis, eficientes e escaláveis**.
 
 ---
-## 🎯 Atualmente Focando Em 👇
-- Posições estratégicas que integrem Infraestrutura, DevOps, Segurança, Desenvolvimento e Automações com IA.
-- Desenvolvimento de aplicações SaaS com práticas de SRE e Observabilidade em DataDog e ferramentas integradas.
-- Publicação de aplicativos Android na Google Play Store.
-  
+
+### 🛠️ Tech Stack & Expertise
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <br>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/SRE-Reliability-blue?style=flat-square" alt="SRE">
+</div>
+
 ---
-## 📫 Contato
-- **LinkedIn:** [Everson TI](https://www.linkedin.com/in/eversonti/)
-- **Email:** titecnologiasorocaba@gmail.com
-  
+
+### 🏅 Certificações em Destaque
+*   **AWS Certified Cloud Practitioner**
+*   **EXIN Information Security Management** (ISO/IEC 27001)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRE-ARCHITECT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRE-ARCHITECT&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ---
 
 <div align="center">
-
-#SRE #DevOps #DevOpsEngineer #SiteReliabilityEngineering #CloudComputing #AIEngineering #CodeArchitecture #CloudArchitecture #InfrastructureAsCode #Kotlin #JavaScript #ApacheCordova #AWS #AmazonWebServices #DataDog #Zabbix #UpTimeKuma #Wazuh #Observability #Automation #CyberSecurity #InfoSec #ISO27001 #SaaS #MobileDevelopment #AndroidDev #GooglePlay #ERP #HealthTech #HospitalSystems #TechInnovation #SelfTaught #LifelongLearner #Analytical #BusinessOriented #TecnologiaDaInformação #TI #DevOpsBrasil #Linux #Windows #CloudBrasil #Desenvolvedor #ArquitetoDeSoftware #SegurancaDaInformacao #InfraestruturaDeTI #Programador #InovacaoTecnologica
-
+  <sub>Construindo o futuro da infraestrutura com IA. Vamos nos conectar?</sub>
 </div>
