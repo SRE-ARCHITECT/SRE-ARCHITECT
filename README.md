@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Everson" width="100%">
+  <img src="banner-v3.png" alt="Everson" width="100%">
 
   <h1>👋 Olá, eu sou Everson</h1>
 
