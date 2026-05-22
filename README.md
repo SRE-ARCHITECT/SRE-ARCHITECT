@@ -4,7 +4,7 @@
   <h1>👋 Olá, eu sou Everson</h1>
 
   <p align="center">
-    <strong>AI-Native Product Engineer | SaaS & Automation Architecture | Cloud | DevOps, SRE & Infrastructure</strong>
+    <strong>AI Solutions Architect | SaaS & Automation | Cloud | DevOps, SRE & Infrastructure</strong>
   </p>
 
   <p align="center">
