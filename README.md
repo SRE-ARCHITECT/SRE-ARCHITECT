@@ -4,7 +4,7 @@
   <h1>👋 Olá, eu sou Everson</h1>
 
   <p align="center">
-    <strong>AI Solutions Architect | SaaS & Automation | Cloud | DevOps, SRE & Infrastructure</strong>
+    <strong>AI Engineer | Solutions Architect | SaaS & Automation | Cloud, DevOps & Infrastructure </strong>
   </p>
 
   <p align="center">
