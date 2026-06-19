@@ -4,7 +4,7 @@
   <h1>👋 Olá, eu sou Everson</h1>
 
   <p align="center">
-    <strong>AI Engineer | Solutions Architect | SaaS & Automation | Cloud, DevOps & Infrastructure </strong>
+    <strong>AI Engineer | Forward Deployed Engineer | Solutions Architect | Cloud & Infrastructure | Founder @ zuun.vercel.app </strong>
   </p>
 
   <p align="center">
