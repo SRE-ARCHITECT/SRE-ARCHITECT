@@ -4,7 +4,7 @@
   <h1>👋 Olá, eu sou Everson</h1>
 
   <p align="center">
-    <strong>AI Engineer | Solutions Architect | Cloud & Infrastructure | Forward Deployed Engineer | High-Impact Individual Contributor | Founder @ ZuuN </strong>
+    <strong>AI Engineer | Solutions Architect | Product Engineering | Cloud & Infrastructure | Forward Deployed Engineer | High-Impact Individual Contributor | Founder @ ZuuN </strong>
   </p>
 
   <p align="center">
