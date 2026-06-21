@@ -4,7 +4,7 @@
   <h1>👋 Olá, eu sou Everson</h1>
 
   <p align="center">
-    <strong>AI Engineer | Forward Deployed Engineer | Solutions Architect | Cloud & Infrastructure | Founder @ zuun.vercel.app </strong>
+    <strong>AI Engineer | Solutions Architect | Cloud & Infrastructure | Forward Deployed Engineer | High-Impact Individual Contributor | Founder @ ZuuN </strong>
   </p>
 
   <p align="center">
@@ -21,8 +21,8 @@
 
 ### 🚀 Sobre Mim
 
-Experiência em **infraestrutura crítica on-premise, sistemas distribuídos e cloud**, com foco total em **produto e operações**. Atualmente, meu trabalho é a convergência entre a robustez do SRE e a inovação da IA.
-Especialista no desenvolvimento de **SaaS e automações com integração de IA (LLMs)**, cobrindo desde a avaliação de performance e tuning de prompts até estratégias complexas de fallback. Aplico práticas de SRE para garantir que sistemas de IA sejam não apenas inteligentes, mas **confiáveis, eficientes e escaláveis**.
+AI Engineer e Solutions Architect focado em engenharia de produto e geração de valor por meio da integração entre negócio, tecnologia e experiência do usuário.
+Atuação em IA generativa, arquitetura de sistemas, agentes inteligentes, automação, cloud, infraestrutura corporativa e plataformas SaaS, construindo soluções escaláveis de ponta a ponta.
 
 ---
 
