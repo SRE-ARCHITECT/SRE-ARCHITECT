@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://webappdesigner.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/PortfÃ³lio-webappdesigner.com.br-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+      <img src="https://img.shields.io/badge/Portfólio-webappdesigner.com.br-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/eversonti" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Everson_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -20,15 +20,15 @@
 
 ---
 
-### ðŸš€ Sobre Mim
+### 🚀 Sobre Mim
 
-AI Engineer & Solutions Architect focado em engenharia de produto, arquitetura de sistemas inteligentes e geraÃ§Ã£o de valor por meio da convergÃªncia entre negÃ³cio, tecnologia e experiÃªncia do usuÃ¡rio.
+AI Engineer & Solutions Architect focado em engenharia de produto, arquitetura de sistemas inteligentes e geração de valor por meio da convergência entre negócio, tecnologia e experiência do usuário.
 
-Autor do livro **"AI ENGINEER 2027"**, atuo na interseÃ§Ã£o estratÃ©gica entre **Sistemas ConfiÃ¡veis (SRE / Infraestrutura CrÃ­tica)**, **Cloud Architecture** e **InteligÃªncia Artificial Aplicada**. Especialista na concepÃ§Ã£o de plataformas SaaS escalÃ¡veis, orquestraÃ§Ã£o de **agentes autÃ´nomos multi-provedor com fallback resiliente**, pipelines RAG e automaÃ§Ãµes corporativas de alta performance com governanÃ§a estrita (ISO/IEC 27001).
+Autor do livro **"AI ENGINEER 2027"**, atuo na interseção estratégica entre **Sistemas Confiáveis (SRE / Infraestrutura Crítica)**, **Cloud Architecture** e **Inteligência Artificial Aplicada**. Especialista na concepção de plataformas SaaS escaláveis, orquestração de **agentes autônomos multi-provedor com fallback resiliente**, pipelines RAG e automações corporativas de alta performance com governança estrita (ISO/IEC 27001).
 
 ---
 
-### ðŸ“š PublicaÃ§Ã£o Oficial: Livro AI ENGINEER 2027
+### 📚 Publicação Oficial: Livro AI ENGINEER 2027
 
 <div align="center">
   <table>
@@ -39,20 +39,20 @@ Autor do livro **"AI ENGINEER 2027"**, atuo na interseÃ§Ã£o estratÃ©gica e
         </a>
       </td>
       <td width="68%" valign="middle">
-        <h3>AI ENGINEER 2027 â€” Da ConcepÃ§Ã£o Ã  ProduÃ§Ã£o Real</h3>
-        <p>Um relato tÃ©cnico direto sobre a transformaÃ§Ã£o de modelos teÃ³ricos de IA em arquiteturas reais de produÃ§Ã£o. Focado em engenharia de software aplicada, resiliÃªncia de sistemas distribuÃ­dos e viabilidade econÃ´mica.</p>
+        <h3>AI ENGINEER 2027 — Da Concepção à Produção Real</h3>
+        <p>Um relato técnico direto sobre a transformação de modelos teóricos de IA em arquiteturas reais de produção. Focado em engenharia de software aplicada, resiliência de sistemas distribuídos e viabilidade econômica.</p>
         <p>
-          ðŸ”¹ <strong>FinOps de Custo Nulo em Repouso:</strong> Edge computing e serverless orientados a evento.<br>
-          ðŸ”¹ <strong>ResiliÃªncia Multi-LLM:</strong> Agentes autÃ´nomos com fallback em cascata e validaÃ§Ã£o estrita.<br>
-          ðŸ”¹ <strong>Geofencing de Baixa LatÃªncia:</strong> Processamento em tempo real sob restriÃ§Ãµes severas.<br>
-          ðŸ”¹ <strong>Casos Reais de ProduÃ§Ã£o:</strong> Arquitetura, telemetria e liÃ§Ãµes prÃ¡ticas do ecossistema ZuuN.
+          🔹 <strong>FinOps de Custo Nulo em Repouso:</strong> Edge computing e serverless orientados a evento.<br>
+          🔹 <strong>Resiliência Multi-LLM:</strong> Agentes autônomos com fallback em cascata e validação estrita.<br>
+          🔹 <strong>Geofencing de Baixa Latência:</strong> Processamento em tempo real sob restrições severas.<br>
+          🔹 <strong>Casos Reais de Produção:</strong> Arquitetura, telemetria e lições práticas do ecossistema ZuuN.
         </p>
         <p>
           <a href="https://webappdesigner.com.br/artigos/ai-engineer-2027/" target="_blank">
-            <img src="https://img.shields.io/badge/BAIXE_O_E--BOOK_PDF_GRÃTIS-(3,2_MB)-6366f1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar E-Book GrÃ¡tis">
+            <img src="https://img.shields.io/badge/BAIXE_O_E--BOOK_PDF_GRÁTIS-(3,2_MB)-6366f1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar E-Book Grátis">
           </a>
           <a href="https://webappdesigner.com.br/artigos/ai-engineer-2027/" target="_blank">
-            <img src="https://img.shields.io/badge/Acessar_Artigo_&_Case-Web-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar PÃ¡gina Oficial">
+            <img src="https://img.shields.io/badge/Acessar_Artigo_&_Case-Web-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Página Oficial">
           </a>
         </p>
       </td>
@@ -62,7 +62,7 @@ Autor do livro **"AI ENGINEER 2027"**, atuo na interseÃ§Ã£o estratÃ©gica e
 
 ---
 
-### ðŸ› ï¸ Tech Stack & Expertise
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -81,9 +81,9 @@ Autor do livro **"AI ENGINEER 2027"**, atuo na interseÃ§Ã£o estratÃ©gica e
 
 ---
 
-### ðŸ›¡ï¸ CertificaÃ§Ãµes em Destaque
-* â˜ï¸ **AWS Certified Cloud Practitioner** (Foundational)
-* ðŸ”’ **EXIN Information Security Management Foundation** (ISO/IEC 27001)
+### 🛡️ Certificações em Destaque
+* ☁️ **AWS Certified Cloud Practitioner** (Foundational)
+* 🔒 **EXIN Information Security Management Foundation** (ISO/IEC 27001)
 
 ---
 
