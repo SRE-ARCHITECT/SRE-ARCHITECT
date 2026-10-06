@@ -1,8 +1,6 @@
 <div align="center">
   <img src="banner.png" alt="Everson Silva - Infraestrutura | Cloud | DevOps | IA" width="100%">
 
-  <h1>ðŸ‘‹ OlÃ¡, eu sou Everson Silva</h1>
-
   <p align="center">
     <strong>AI Engineer & Solutions Architect | SaaS & Automation Architecture | Cloud | DevOps & SRE</strong>
   </p>
