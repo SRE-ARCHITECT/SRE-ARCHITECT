@@ -23,7 +23,6 @@
 ### 🚀 Sobre Mim
 
 AI Engineer & Solutions Architect focado em engenharia de produto, arquitetura de sistemas inteligentes e geração de valor por meio da convergência entre negócio, tecnologia e experiência do usuário.
-
 Autor do livro **"AI ENGINEER 2027"**, atuo na interseção estratégica entre **Sistemas Confiáveis (SRE / Infraestrutura Crítica)**, **Cloud Architecture** e **Inteligência Artificial Aplicada**. Especialista na concepção de plataformas SaaS escaláveis, orquestração de **agentes autônomos multi-provedor com fallback resiliente**, pipelines RAG e automações corporativas de alta performance com governança estrita (ISO/IEC 27001).
 
 ---
